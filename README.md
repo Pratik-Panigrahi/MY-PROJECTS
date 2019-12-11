@@ -1,2 +1,2 @@
-# MY-PROJECTS(week 1)
+# MY-PROJECTS
 a comlete data analysis on various types of projects using different kind of machine learnig algorithms
